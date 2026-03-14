@@ -13,7 +13,15 @@ Diseñar e implementar un carrito autónomo capaz de seguir una línea utilizand
 - Integrar el hardware y el software del sistema.
 
 ## Diagrama de Bloques
-
+Sensores IR
+↓
+Microcontrolador (Arduino)
+↓
+Driver de motores
+↓
+Motores DC
+↓
+Movimiento del carrito
 ## Hardware
 - Arduino
 - Sensor infrarrojo de línea
@@ -30,6 +38,12 @@ Diseñar e implementar un carrito autónomo capaz de seguir una línea utilizand
 - GitHub
 
 ## Cronograma
+Semana 1: Planeación del proyecto  
+Semana 2: Diseño del sistema  
+Semana 3: Selección de componentes  
+Semana 4: Programación del microcontrolador  
+Semana 5: Ensamble del carrito  
+Semana 6: Pruebas y ajustes
 ## Roles del Equipo
 - Dante: Coordinación del proyecto
 - Ramon: Diseño del hardware
