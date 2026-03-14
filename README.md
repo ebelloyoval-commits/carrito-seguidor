@@ -30,10 +30,29 @@ Diseñar e implementar un carrito autónomo capaz de seguir una línea utilizand
 - GitHub
 
 ## Cronograma
+## Roles del Equipo
+## Estructura del repositorio
 
-Semana 1: Planeación del proyecto  
-Semana 2: Diseño del sistema  
-Semana 3: Selección de componentes  
-Semana 4: Programación  
-Semana 5: Ensamble del carrito  
-Semana 6: Pruebas y ajustes
+carrito-seguidor
+│
+├── README.md
+├── docs
+│   └── documentación del proyecto
+├── hardware
+│   └── diagramas y conexiones del carrito
+├── software
+│   └── código del microcontrolador
+└── images
+    └── imágenes y diagramas del proyecto
+
+
+## Control de versiones
+
+El proyecto se gestiona mediante Git y GitHub.  
+Cada integrante del equipo realizará commits para registrar los avances en cada etapa del desarrollo del carrito de seguimiento.
+- Dante: Coordinación del proyecto
+- Ramon: Diseño del hardware
+- Alfredo: Programación del microcontrolador
+- Elsy: Ensamble del carrito
+- Magly: Pruebas y validación del sistema
+- Samuel: Documentación y control del repositorio
