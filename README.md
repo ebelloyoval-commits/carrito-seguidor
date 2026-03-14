@@ -31,6 +31,12 @@ Diseñar e implementar un carrito autónomo capaz de seguir una línea utilizand
 
 ## Cronograma
 ## Roles del Equipo
+- Dante: Coordinación del proyecto
+- Ramon: Diseño del hardware
+- Alfredo: Programación del microcontrolador
+- Elsy: Ensamble del carrito
+- Magly: Pruebas y validación del sistema
+- Samuel: Documentación y control del repositorio
 ## Estructura del repositorio
 
 carrito-seguidor
@@ -50,9 +56,3 @@ carrito-seguidor
 
 El proyecto se gestiona mediante Git y GitHub.  
 Cada integrante del equipo realizará commits para registrar los avances en cada etapa del desarrollo del carrito de seguimiento.
-- Dante: Coordinación del proyecto
-- Ramon: Diseño del hardware
-- Alfredo: Programación del microcontrolador
-- Elsy: Ensamble del carrito
-- Magly: Pruebas y validación del sistema
-- Samuel: Documentación y control del repositorio
